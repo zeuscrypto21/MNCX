@@ -1,0 +1,18 @@
+FEDERATION_SERVER="https://stellarid.io/federation/"
+
+[[CURRENCIES]]
+code="MNCX"
+issuer="GCB3QC6W3BCZRKJ4VND72UM2RXKL7RH2ZMSLOCHGB4FTGTRIKNYCB7O4"
+display_decimals=4
+name="MoonCoinX"
+desc="MNCX (MooncoinX) is a representation of globalization, where the moon is defined as an earth satellite and coin is one of the means of payment. In other words MNCX is a payment media in the field of creative industries, E-Commerce, education and social humanity and services."
+conditions="Pay with fast transaction all product. Solution of payment in future."
+image="http://mooncoinx.com/images/mooncoinx.png"
+status="live"
+
+[[PRINCIPALS]]
+name="Blockreative"
+email="support@mooncoinx.com"
+telegram="https://t.me/mooncoinx"
+twitter="https://twitter.com/mooncoinx"
+github="https://github.com/mooncoinx/MNCX"
